@@ -19,7 +19,7 @@ Hi! I’m Kelly, a seasoned researcher and data analyst, and a passionate advoca
   <a href="https://www.linkedin.com/in/kelly-wanjing-chen-ph-d-36464038/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="./chen-cv.pdf">
+  <a href="./assets/resume.pdf">
     <img src="https://img.shields.io/badge/-Download_CV-6f42c1?style=flat&logo=adobe-acrobat&logoColor=white" alt="Download CV">
   </a>
 </p>
